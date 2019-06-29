@@ -1,8 +1,6 @@
 ## Messenger App using Laravel and Vue.JS
 
- 
-This project is made for my youtube tutorial on "Messenger App with Laravel, Vue.JS & Laravel Echo".
-
+  
 ![App Example](https://media.giphy.com/media/8cARsYOk9DmCLZTZOb/giphy.gif)
 
 ## get it up and running.
